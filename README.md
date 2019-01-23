@@ -1,11 +1,12 @@
 # Protein-Protein-interaction-using-Networkx
+
 The networkx is used for analysing the interaction between small/medium-scale protein-protein. The more details about networkx can
 can be found here, https://networkx.github.io/documentation/stable/index.html. And, the dataset for this task is used from here, https://www.inetbio.org/wormnet/downloadnetwork.php.
 
 In this task,  the following things are implemented:
 1. Build the corresponding network (G) with Networkx
      
-2. Find number of nodes, number of edges and the average degree of the network?
+2. Find number of nodes, number of edges and the average degree of the network
 3. Find the density of the network.
 4. Find the minimum spanning tree in G and draw it.
 5. Draw the degree distribution histogram.
